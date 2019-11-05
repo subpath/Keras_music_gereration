@@ -2,6 +2,12 @@
 Music generation with Keras and LSTM
 
 ## Requirements
+
+### Python
+1. Jupyter Notebook
+2. Python3.7
+
+### Packages
 ```
 mido==1.2.9
 tensorflow==1.14.0
